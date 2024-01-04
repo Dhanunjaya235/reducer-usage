@@ -1,0 +1,29 @@
+.register-form{
+        margin-top: 150px;
+}
+
+.register-form button{
+    background-color: #2f80ed;
+    border-radius: 10px;
+    border-style: none;
+    font-family: Inter, -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    height: 30px;
+    box-shadow: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+.register-form input{
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+    box-shadow:0 0 10px 4px rgba(0,0,0,0.06);
+    border-radius:10px;
+    border: none;
+}
+
+::placeholder{
+    font-weight: bold;
+}
